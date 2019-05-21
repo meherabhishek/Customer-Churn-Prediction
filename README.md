@@ -6,4 +6,4 @@ AMZ is an e-commerce giant. The organization manages its own warehouse at differ
 2. The variables are masked and we get little information from their names.
 3. Missing values are represented as NA and in one column missing value is represented by -99
 # Model
-Decision Tree
+Decision Tree using R
